@@ -12,6 +12,8 @@ npm i react-native-vector-icons
 #
 npm i @react-navigation/bottom-tabs --force
 #
+npm i moment
+#
 npm i react-native-sqlite-storage
 #
 
