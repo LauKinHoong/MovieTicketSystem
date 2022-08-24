@@ -3,6 +3,7 @@
 # Installation
 
 npm i react-native-image-slider-banner
+#
 npm i react-native-imaged-carousel-card
 
 
