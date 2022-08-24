@@ -16,6 +16,8 @@ npm i moment
 #
 npm i react-native-sqlite-storage
 #
+npm install react-native-safe-area-context
+
 
 
 # Modify this file index.js with the follow codes:
