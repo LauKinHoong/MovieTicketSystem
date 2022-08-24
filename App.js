@@ -8,9 +8,9 @@ import Ionicons from 'react-native-vector-icons/Ionicons';
 import {LogBox} from 'react-native';
 LogBox.ignoreLogs (['EventEmitter.removeListener']);
 
-import HomePage from './src/HomePage';
-import Movies from './src/Movies';
-import ContactUsPage from './src/ContactUsPage';
+import HomePage from './HomePage';
+import Movies from './Movies';
+import ContactUsPage from './ContactUsPage';
 
 
 const Tab = createBottomTabNavigator ();
