@@ -10,6 +10,8 @@ npm i react-navigation/native
 #
 npm i react-native-vector-icons
 #
+npm i @react-navigation/bottom-tabs
+#
 npm i react-native-sqlite-storage
 #
 
