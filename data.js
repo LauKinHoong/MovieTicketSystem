@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import moment from 'moment';
 
 // Hardcode days for the sake of simplicity
