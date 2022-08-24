@@ -17,6 +17,8 @@ npm i moment
 npm i react-native-sqlite-storage
 #
 npm install react-native-safe-area-context
+#
+npm i react-native-screens
 
 
 
