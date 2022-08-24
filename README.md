@@ -6,11 +6,11 @@ npm i react-native-image-slider-banner
 #
 npm i react-native-imaged-carousel-card
 #
-npm i react-navigation/native
+npm i @react-navigation/native
 #
 npm i react-native-vector-icons
 #
-npm i @react-navigation/bottom-tabs --force
+npm i @react-navigation/bottom-tabs 
 #
 npm i moment
 #
