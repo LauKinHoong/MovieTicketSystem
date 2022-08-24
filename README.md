@@ -1,5 +1,11 @@
 # MovieTicketSystem
 
+# Installation
+
+npm i react-native-image-slider-banner
+npm i react-native-imaged-carousel-card
+
+
 # Modify this file index.js with the follow codes:
 
 import {AppRegistry} from 'react-native';
